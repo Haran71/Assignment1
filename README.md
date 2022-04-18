@@ -1,5 +1,5 @@
-empty.sh -> Q1 A
-duplicate.sh -> Q1 B
+empty.sh -> Q1 Part A
+duplicate.sh -> Q1 Part B
 Everything else is named as per the question number.
 
 for question 4, I have taken a list of numbers seperated by commas as input fromthe user. The way to give input is:
